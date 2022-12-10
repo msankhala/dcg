@@ -1,8 +1,11 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Drupal Common Snippets'
-theme = "hugo-theme-learn"a
+theme = "hugo-theme-learn"
 
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  logo = 'assets/images/drupal-snippets-logo.png'
