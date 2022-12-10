@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Drupal Common Snippets'
+theme = "hugo-theme-learn"a
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
