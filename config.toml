@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://msankhala.github.io/drupal-common-snippets/'
 languageCode = 'en-us'
 title = 'Drupal Common Snippets'
 theme = "hugo-theme-learn"
