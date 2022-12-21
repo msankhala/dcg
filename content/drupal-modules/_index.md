@@ -6,8 +6,6 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Drupal Modules
-
 # Drupal Modules Snippets
 
 This chapter contains the common Drupal modules snippets.
