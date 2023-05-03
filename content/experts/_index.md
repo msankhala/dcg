@@ -11,15 +11,15 @@ This is an experts guide to Drupal. Here you can find all the experts informatio
 
 Contributing to critical and major issues in Drupal is an important way to make a significant impact on the platform and help ensure its stability and security.
 
-## Here are some tips to help you contribute to critical and major issues in Drupal:
+## Here are some tips to help you contribute to critical and major issues in Drupal
 
-1. Understand the issue: Before you begin contributing to a critical or major issue, make sure you understand the problem and its impact on Drupal. Read through the issue description and any related documentation to get a clear understanding of the issue and its scope.
-1. Identify potential solutions: Once you understand the problem, identify potential solutions. Consider the impact your changes will have on other parts of the Drupal system and make sure your approach is scalable and maintainable.
-1. Develop a plan of action: Develop a plan of action for how you will solve the issue. This may involve writing new code, modifying existing code, or refactoring existing code. Consider the impact your changes will have on the rest of the Drupal system and make sure your approach is compatible with other modules and features.
-1. Write clean, well-documented code: Write clean, well-documented code that follows Drupal coding standards. This will make it easier for other developers to understand your changes and maintain them in the future.
-1. Test thoroughly: Test your changes thoroughly to ensure they work as expected and do not introduce new issues. Use automated tests provided by Drupal as well as manual testing to ensure your changes are robust and reliable.
-1. Submit your contribution: Once you have completed your changes and tested them thoroughly, submit your contribution to the Drupal community for review. Provide a detailed description of the changes you have made, and include any necessary documentation or instructions.
-1. Get feedback: The Drupal community will review your contribution and provide feedback. Be open to feedback and willing to make changes as necessary.
-1. Iterate and refine: Based on the feedback, iterate and refine your contribution until it is accepted by the Drupal community.
+1. **Understand the issue:** Before you begin contributing to a critical or major issue, make sure you understand the problem and its impact on Drupal. Read through the issue description and any related documentation to get a clear understanding of the issue and its scope.
+1. **Identify potential solutions:** Once you understand the problem, identify potential solutions. Consider the impact your changes will have on other parts of the Drupal system and make sure your approach is scalable and maintainable.
+1. **Develop a plan of action:** Develop a plan of action for how you will solve the issue. This may involve writing new code, modifying existing code, or refactoring existing code. Consider the impact your changes will have on the rest of the Drupal system and make sure your approach is compatible with other modules and features.
+1. **Write clean, well-documented code:** Write clean, well-documented code that follows Drupal coding standards. This will make it easier for other developers to understand your changes and maintain them in the future.
+1. **Test thoroughly:** Test your changes thoroughly to ensure they work as expected and do not introduce new issues. Use automated tests provided by Drupal as well as manual testing to ensure your changes are robust and reliable.
+1. **Submit your contribution:** Once you have completed your changes and tested them thoroughly, submit your contribution to the Drupal community for review. Provide a detailed description of the changes you have made, and include any necessary documentation or instructions.
+1. **Get feedback:** The Drupal community will review your contribution and provide feedback. Be open to feedback and willing to make changes as necessary.
+1. **Iterate and refine:** Based on the feedback, iterate and refine your contribution until it is accepted by the Drupal community.
 
 Remember, contributing to critical and major issues in Drupal requires a deep understanding of Drupal and development in general. It's important to be patient, persistent, and willing to learn as you work through these challenges. By contributing to critical and major issues, you are helping to ensure the stability and security of the Drupal platform and making a valuable contribution to the Drupal community.
