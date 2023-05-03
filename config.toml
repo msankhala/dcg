@@ -1,6 +1,6 @@
-baseURL = 'https://msankhala.github.io/drupal-common-snippets/'
+baseURL = 'https://msankhala.github.io/dcg/'
 languageCode = 'en-us'
-title = 'Drupal Common Snippets'
+title = 'Drupal Contribution Guideline (DCG)'
 theme = "hugo-theme-learn"
 
 # For search functionality
@@ -8,4 +8,4 @@ theme = "hugo-theme-learn"
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-  logo = 'assets/images/drupal-snippets-logo.png'
+  # logo = 'assets/images/drupal-snippets-logo.png'
