@@ -19,8 +19,6 @@ Before contributing to Drupal, you should first find an issue that you would lik
 
 - [Drupal Slack](https://www.drupal.org/slack): The Drupal Slack community is a great place to connect with other Drupal contributors and ask for help finding issues or getting started with a contribution.
 
-- [Drupal Contrib Tracker](https://contribkanban.com/#/): The Drupal Contrib Tracker provides a visual representation of the Drupal.org issue queue and can help you find issues that are suitable for your skill level or interests.
-
 ## Types of Issues to Pick
 
 Drupal welcomes contributions of all kinds, from code to documentation to testing. Here are some types of issues that are suitable for different skill levels:
