@@ -9,7 +9,9 @@ This contribution guideline is designed to help all developers, from interns to 
 
 ## Official Contribution Guidelines
 
-[Contributor guide](https://www.drupal.org/community/contributor-guide/)
+1. [Contributor guide](https://www.drupal.org/community/contributor-guide/)
+1. [Contribute to Drupal core](https://www.drupal.org/community/contributor-guide/contribution-areas/core)
+1. [Issue etiquette](https://www.drupal.org/docs/develop/issues/issue-procedures-and-etiquette/issue-etiquette) - MUST READ for all contributors DO's and DON'Ts
 
 ## Finding Issues to Contribute
 
