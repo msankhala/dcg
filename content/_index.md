@@ -12,8 +12,9 @@ This contribution guideline is designed to help all developers, from interns to 
 1. Go through the **Official Contribution Guidelines** links given below.
 1. Join the drupal slack. https://drupal.slack.com/ and join **#contribute, #support** channel. There are few more public channels for specific topics.
     1. The advantage of joining the drupal slack channel is that you can get help with any issue related to Drupal and you can find maintainers of most of the modules on the drupal slack channel.
-1. Go through the DO's and DON'Ts section given below.
-1. Do not pick any _novice_ or _beginners_ issues if you are already familiar with drupal contribution. Do not waste your time fixing low value issue and try to harvest credit.
+1. Go through the **DO's and DON'Ts** section given below.
+1. Do not pick any **_novice_** or **_beginners_** issues if you are already familiar with drupal contribution. **Do not waste your time fixing low value issue and try to harvest credit.**
+1. **Always ask yourself what value you are bringing with your contribution. Is this issue truly worth your time?**
 1. Always pick issue with Drupal core or contributed modules with higher uses. You can see uses stats of a module on module page.
 ![Module uses](/dcg/images/module-uses.png#floatleft "400px")
 
