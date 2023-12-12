@@ -9,3 +9,6 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   # logo = 'assets/images/drupal-snippets-logo.png'
+
+  custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
